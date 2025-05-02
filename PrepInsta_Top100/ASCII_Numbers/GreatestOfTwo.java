@@ -1,4 +1,4 @@
-package PrepInsta_Top100;
+package PrepInsta_Top100.ASCII_Numbers;
 
 import java.util.Scanner;
 
